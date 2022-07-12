@@ -1,6 +1,7 @@
-#Obtiene una lista de 10 Diccionarios con su id y una edad aleatoria de 1 a 100.
 import random
 import doctest
+
+#Obtiene una lista de 10 Diccionarios con su id y una edad aleatoria de 1 a 100.
 def listaDiccionario():
     """
        >>> l=listaDiccionario()

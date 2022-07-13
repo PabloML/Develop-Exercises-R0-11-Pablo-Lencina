@@ -57,7 +57,7 @@ def listaDiccionario():
     return lista
 
 #Ordena la lista de mayor a menor edad
-#Imprime el id del más jove y el más viejo
+#Imprime el id del más joven y el más viejo
 #Devuelve la lista ordenada
 def ordenarlista(lista):
     """
